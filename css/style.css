@@ -33,5 +33,6 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #0ad8ab;
+  box-shadow: 0 4px 12px rgba(10, 216, 171, 0.4);
 }
